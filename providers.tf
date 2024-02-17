@@ -24,4 +24,5 @@ provider "azurerm" {
 
 provider "cloudinit" {
   # Configuration options
+  
 }

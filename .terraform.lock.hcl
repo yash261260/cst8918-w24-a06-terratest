@@ -40,4 +40,5 @@ provider "registry.terraform.io/hashicorp/cloudinit" {
     "zh:f021538c86d0ac250d75e59efde6d869bbfff711eb744c8bddce79d2475bf46d",
     "zh:f1e3984597948a2103391a26600e177b19f16a5a4c66acee27a4343fb141571f",
   ]
+  
 }

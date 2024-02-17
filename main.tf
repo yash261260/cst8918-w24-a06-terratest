@@ -124,4 +124,5 @@ resource "azurerm_linux_virtual_machine" "webserver" {
   }
 
   custom_data = data.cloudinit_config.init.rendered
+  
 }
